@@ -1,0 +1,6 @@
+#cache folder of VS
+.vs/
+
+#folders bin and obj
+bin/
+obj/
