@@ -1,6 +1,10 @@
 #cache folder of VS
 .vs/
 
-#folders bin and obj
+#folders of bin and obj
 bin/
 obj/
+
+#projects folders
+PifagorsTable/
+PingPong/
